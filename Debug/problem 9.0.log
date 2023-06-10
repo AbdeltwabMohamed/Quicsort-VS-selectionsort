@@ -1,0 +1,4 @@
+﻿  problem 9.0.cpp
+C:\Users\Abdeltwab\source\repos\problem 9.0\problem 9.0\problem 9.0.cpp(113,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Abdeltwab\source\repos\problem 9.0\problem 9.0\problem 9.0.cpp(123,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  problem 9.0.vcxproj -> C:\Users\Abdeltwab\source\repos\problem 9.0\Debug\problem 9.0.exe
